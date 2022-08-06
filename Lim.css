@@ -1,0 +1,76 @@
+body{
+  background-image: url(background.jpg);
+  background-size:cover;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+}
+/* Stile Contenitore */
+.container {
+  width: 65% ;
+  background-color:rgba(0,0,0,0.5);
+  height: 600px;
+  margin:auto;
+  border-radius: 2%;
+  margin-top: 2%;
+}
+/* Stile Titolo e Logo */
+#Titolo{
+    text-align: center;
+    color: rgb(0,225,0);
+  }
+#logo{
+  width: 21%;
+  padding-top: 7%;
+}
+/* Stile  padre header e figlio h2 */
+header>h2{
+    margin-block-end: 3px;
+    margin-block-start:2px;
+}
+/* Stile degli Input e Form */
+nav{
+  background-color: rgb(0,225,0);
+  width: 86%;
+  text-align: center;
+  margin-left:5%;
+  height: 6%;
+}
+form{
+margin-left: 5%;
+}
+.button{
+    margin-top: 9px;
+    font-size: 9px;;
+  }
+.checkbox{
+  margin:auto;
+  margin-top: 16px;
+}
+/* Stile Contenuto Principale e barra di carica */
+p{
+  font-size: 12px;
+  margin-left: 5%;
+  margin-top: 0px;
+  margin-bottom: 2px;
+  color: lightgrey;
+}
+.carica{
+  background-color: #e9ca67;
+  width: 33%;
+}
+main>div{
+  height: 25px;
+  border-radius: 5px;
+  margin-left: 5%;}
+.carica1{
+  background-color:rgb(0 213 46);
+  width: 55%;
+}
+.carica2{
+  background-color:rgb(154 66 40);
+  width: 11%;
+}
+/* Stile Footer */
+footer{
+  margin: 60px 0px 0px 350px;
+}
