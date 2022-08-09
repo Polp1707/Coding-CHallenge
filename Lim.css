@@ -40,6 +40,7 @@ nav{
 }
 form{
 margin-left: 5%;
+margin-top: 8px;
 }
 .button{
     margin-top: 9px;
@@ -56,6 +57,9 @@ p{
   margin-top: 0px;
   margin-bottom: 2px;
   color: lightgrey;
+}
+.Stato{
+  font-size: 12px;
 }
 .carica{
   background-color: #e9ca67;
