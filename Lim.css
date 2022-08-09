@@ -1,5 +1,5 @@
 body{
-  background-image: url(background.jpg);
+  background-image: url(background.png);
   background-size:cover;
   font-family: 'Ubuntu', sans-serif;
   color: white;
@@ -26,6 +26,9 @@ body{
 header>h2{
     margin-block-end: 3px;
     margin-block-start:2px;
+    margin-right:  45px;
+    margin-top: 5px;
+    font-size: 19px;
 }
 /* Stile degli Input e Form */
 nav{
@@ -68,7 +71,8 @@ main>div{
 }
 .carica2{
   background-color:rgb(154 66 40);
-  width: 11%;
+  width: 13%;
+  height: 22px;
 }
 /* Stile Footer */
 footer{
